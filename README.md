@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!--
-**MayugeStudio/MayugeStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: Please send an email to [mayuge.studio.public@gmail.com]
 
-Here are some ideas to get you started:
+![Mayuge's github stats](https://github-readme-stats.vercel.app/api?username=MayugeStudio&count_private=true&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Mayuge's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayugeStudio&count_private=true&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayugeStudio&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayugeStudio&theme=radical)
+
+<a href="https://github.com/MayugeStudio/Rabbit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MayugeStudio&repo=Rabbit&theme=radical" />
+</a>
+
