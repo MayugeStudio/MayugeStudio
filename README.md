@@ -5,8 +5,3 @@
 ![Mayuge's github stats](https://github-readme-stats.vercel.app/api?username=MayugeStudio&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayugeStudio&theme=radical)
-
-<a href="https://github.com/MayugeStudio/Rabbit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MayugeStudio&repo=Rabbit&theme=radical" />
-</a>
-
